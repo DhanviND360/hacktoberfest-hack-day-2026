@@ -2,8 +2,8 @@
 
 ## Team / attendee
 
-- Team name (if applicable): Dhanvi / m.AI.leage
-- Members and GitHub usernames: Dhanvi (@DhanviND360)
+- Team name (if applicable): token gobblers
+- Members and GitHub usernames: Narra Dhanvi (@DhanviND360)
 - Profile links (optional): https://github.com/DhanviND360
 
 ## Challenge
